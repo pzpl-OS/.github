@@ -1,5 +1,8 @@
-## Hi there 👋
-todo
+## Witamy!
+- pzpl OS to system operacyjny którym celem jest wdrożenie wolnego i otwartego oprogramowania (WiOO) do polskich szkół i domów
+- Jeżeli chesz pomóc, napisz: https://t.me/+oRl6BcNqL0NjZjY0
+- Dokumentacji jeszcze nie ma, ale będzie na https://pzpl.ovh/os
+- Ciekawy fakt: wywodzimy się z wcześniejszego projektu o nazwie [Sieciuchy OS](http://sieciuchyos.ct8.pl/)
 
 <!--
 
